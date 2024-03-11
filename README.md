@@ -11,6 +11,7 @@ Para rodar o projeto, basta ter docker instalado e rodar o comando:
 - Docker e docker compose
 - React.js
 - Digital Ocean
+- Gitflow
 
 ##### Libraries:
 
@@ -43,9 +44,9 @@ Para rodar o projeto, basta ter docker instalado e rodar o comando:
 
 # Modelo de Entidade de Relacionamento
 
-<img src="/images/modelo-er.png">
+<img src="https://cdn.discordapp.com/attachments/1005328503429922827/1216564179704479804/tt.png?ex=6600d8af&is=65ee63af&hm=4abf18b5c157646cc04eac2e7858bfca1c1932ca70e470a3f8b70309cf6326af&">
 
 # Diagrama de classes
 
-<img src="/images/diagrama-classes.png">
+<img src="https://cdn.discordapp.com/attachments/1005328503429922827/1216587630217789440/image.png?ex=6600ee86&is=65ee7986&hm=033966da6baf682ac43e9ad2113da56870f5e67703fe4c3ce493fc431a9ef6f9&">
 
