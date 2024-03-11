@@ -1,8 +1,12 @@
+# Repositório front-end
+
+https://github.com/andrebr2/cadastroProjetos
+
 # Aplicação front-end rodando em:
 
 ### http://137.184.116.243:3000/
 
-Para rodar o projeto, basta ter docker instalado e rodar o comando:
+Para rodar o projeto front-end, basta ter docker instalado e rodar o comando:
 
 ###### docker-compose up -d
 
